@@ -1,0 +1,16 @@
+{
+  "polynomials": [
+    {
+      "roots": [2, 3, 5]
+    },
+    {
+      "roots": [-1, 4, 6]
+    }
+  ],
+  "y_values": [
+    {"value": "101", "base": 2},
+    {"value": "2A", "base": 16},
+    {"value": "35", "base": 8}
+  ],
+  "expected_secret": 42
+}
